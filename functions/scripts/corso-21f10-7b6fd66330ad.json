@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "corso-21f10",
+  "private_key_id": "7b6fd66330adc9aeafa3b3dd528b1c5e8e286b8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDmiOBSrWY2fGaA\nCokWoCZSqBsE0XhOSMro+fvd6hhvehUwHayzJsPyXJkE+s0yIr+LW9HFeW8el7is\niDaVhwuaQavGaoqqZWVJvUCmjHsUACSZ9urGoWIpdDaAi+jMP4gDfST9Q63+c8am\n7t3j8KNIN/ewbqw4MM/2FYdVKq25t0MeKxWP7ltiOLb0aNA7BDlsKpKjlVu+LKHt\nP8odocUS8gX+Oie0NR10FmbOll9Hb/ETp0vENPLk7sOA3eZSmv4bDzBLZS9R/e4N\nPZPJ4pIiglldIRY4Yyv8W6PyvNnWENN/gPKxEn+xhRZ2CwLKuB+S/63BygswqbI2\nICgmPmEvAgMBAAECggEACy0T5vOGEtp5Y6K0c6wu6hnr5BIS9C9I5ajc14Ig+M02\ngr8ligff6aYokEUSYT2treAKguQjXsckik9jigs3z5zNwDrrtF1htC9LF5KUPZYm\nMBqi1h9TxsZeBWGtrF02HFPa+7Y7agG13eOS+UPHaVm2lc8/unekqqhE3Sb1Bh2Z\n7Xsf5KK2BjVCXPJowjOSw8OWBzeRL4hEr5wrKieO/OpLe4B2kyc6/3PHPbX0TjaQ\nkcrBW/wPfPnm/yMUmhE3hCjaOGfeSuNXsoMZ3l4PDJ5M2EOn5Ji5paZBZXu4QR9Y\nrYh9u6+oVnv7tFbPkWL68HNxdZPC1Bvl+LUlBjvK8QKBgQD0BDvGYO6jQcUEntF2\nGSjvDCv+faQqDgT95aa3oWKWmwZCNC78xJeHQ7h/D92nzJDuc/ZaxKZEg5CXsfup\nyuw8ElZUtEKARhILJMHpiroZ/3L43y6XoRlHn+0acTrgbhz0M+5QZyiTZThfJ2ID\nGyFegfp3O0I4WDLVRCnQdV4LfwKBgQDx2yY3xN+SBXaeUlwWCZqJsXDdN/u3irtD\nZz0Zw8eEKXjOWPYJmG+Ngyz0LmjWusOa/TZmzm0w6KYIYPybAXIsG4UjamHka5Rx\nNxY0NPwQ1stqORGtgWqc2PRsEDkyKC7QwtmxaLqjFZOshkhQ+8gzb0oBHbmgY6cU\np3mNtnpCUQKBgH3aRR4e1lW7USr94phfh54rD/G0yVurWWW98UuaX+e/Uu4ITgeu\nOVzZT6mw/ChUOJfTlUbhT8Pce1HRyTOcZlThPEd5pSbVfO7kaWLTWwKXnqu/KB+q\nRgiL8lUF+1DPWf2VXx925RWIShfBjyp87qv4q76dAJ1g1+7otgw+zF9vAoGAaMX+\nZXSFQfXZ8DZPrEBW0UWsVjlVc6rG+ykzQAEfYrKwofvKAlgmI1DrXZDpW/SmnnMJ\naToN9X0jyEdzxxa2RkNZxwDkDZdJRE6P8OfvNsBGeOrmLJr++5nFMTdJ/9+GgGuY\n8REkoVfMlJXLqEGa9iVFEvy0mLXzALCYqPqfNjECgYBrXkj4FjZk/zKg61bWoVTq\nX5MYoNxgaZ69nwOSLaM3ezhBzG4A1PPSzK1spoRZ1E5666JVikw1wdoEcKwodd+T\nfSWEZukwr+x6R5uJ+N7xAZJpWzilpCYK2QqHl3PBjVln2hzkILhyvxeRnO+lqvMe\n6O4M/YRbMBKJGkZA8Qsjvg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "local-admin@corso-21f10.iam.gserviceaccount.com",
+  "client_id": "105317915716237089591",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/local-admin%40corso-21f10.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

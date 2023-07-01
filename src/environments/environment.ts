@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  useEmulators : true,
+  useEmulators : false,
   firebase: {
     apiKey: "AIzaSyAFd8IMfj5mXE8GcexS8w5HkBGATVi1ZwQ",
     authDomain: "corso-21f10.firebaseapp.com",
@@ -15,7 +15,7 @@ export const environment = {
     measurementId: "G-88NVPZHTH7"
   },
   api: {
-    createUser: "http://localhost:5001/corso-21f10/eur3/createUser"
+    createUser: "http://localhost:5001/corso-21f10/us-central1/createUser"
   }
 };
 
